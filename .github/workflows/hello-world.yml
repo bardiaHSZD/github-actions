@@ -1,4 +1,5 @@
-name: hellow-world
+name: hello world
+
 on:
   push:
     branches:
